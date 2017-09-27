@@ -1,5 +1,5 @@
 {
-  "name": "GDG DevFest Season 2016",
+  "name": "GDG DevFest Season 2017",
   "short_name": "DevFest Season",
   "icons": [
     {
@@ -40,8 +40,8 @@
   ],
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
-  "background_color": "#F57C00",
-  "theme_color": "#F57C00",
+  "background_color": "#0093f5",
+  "theme_color": "#0093f5",
   "content_security_policy": "script-src 'self' https://apis.google.com https://www.googleapis.com https://securetoken.googleapis.com; object-src 'self'",
   "permissions": ["https://*/*","activeTab"]
 }

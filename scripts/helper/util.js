@@ -1,5 +1,5 @@
 /**
- * Copyright 2016 Google Inc. All rights reserved.
+ * Copyright 2017 Google Inc. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -105,7 +105,7 @@ HOVERBOARD.Util = HOVERBOARD.Util || (function () {
 
     /**
      * Returns the static base URL of the running app.
-     * https://events.google.com/io2016/about -> https://events.google.com/io2016/
+     * https://events.google.com/io2017/about -> https://events.google.com/io2017/
      */
     function getStaticBaseURL() {
       var url = location.href.replace(location.hash, '');

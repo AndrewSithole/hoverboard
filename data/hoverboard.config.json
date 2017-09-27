@@ -1,22 +1,22 @@
 {
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "gdgHarare",
+    "domain": "demos-eda39.firebaseapp.com",
+    "database": "https://demos-eda39.firebaseio.com",
+    "api": "AIzaSyD5A3JCKd0pIIszzY0sya-9eBfDcX61omI",
     "userSessionsPath": "/userSessions"
   },
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#0049b6",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Southern Africa 2017",
           "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "text": "See how it was in 2017"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -190,7 +190,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 200,
       "caption": "attendees"
     },
     {
@@ -202,16 +202,16 @@
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 5,
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "#DevFestSA",
   "social": [
     {
       "name": "twitter",
       "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "url": "https://twitter.com/gdgharare"
     },
     {
       "name": "gplus",
@@ -220,8 +220,8 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGHarare",
+      "url": "https://www.facebook.com/gdgharare"
     },
     {
       "name": "linkedin",

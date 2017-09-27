@@ -129,14 +129,14 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest Ukraine 2016"></iron-image>
-              <h3 class="dates">{{localize('dates')}}</h3>
-              <h2 class="motto">{{localize('motto')}}</h2>
-              <div class="open-video" on-tap="_openVideo">
-                <iron-icon icon="play"></iron-icon>
-                {{localize('play-icon')}}
-              </div>
+              <!--<iron-image class="logo" src="/images/logo-li2ght.svg" sizing="contain"-->
+                          <!--alt="GDG DevFest Southern Africa 2017"></iron-image>-->
+              <!--<h3 class="dates">{{localize('dates')}}</h3>-->
+              <!--<h2 class="motto">{{localize('motto')}}</h2>-->
+              <!--<div class="open-video" on-tap="_openVideo">-->
+                <!--<iron-icon icon="play"></iron-icon>-->
+                <!--{{localize('play-icon')}}-->
+              <!--</div>-->
               <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
               </div>
@@ -206,12 +206,13 @@
         },
 
         _scrollToTickets: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
-          Polymer.AppLayout.scroll({
-            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
-            behavior: 'smooth',
-            target: HOVERBOARD.Elements.Scroller
-          });
+          window.open('https://www.meetup.com/GDG-Harare/events/242615419/','_blank');
+//          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
+//          Polymer.AppLayout.scroll({
+//            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
+//            behavior: 'smooth',
+//            target: HOVERBOARD.Elements.Scroller
+//          });
         }
 
       });

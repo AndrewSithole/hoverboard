@@ -25,7 +25,7 @@
   },
   "136": {
     "id": 136,
-    "title": "GDG DevFest Ukraine 2016 Opening",
+    "title": "GDG DevFest Ukraine 2017 Opening",
     "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
     "language": "English",
     "image": "/images/backgrounds/opening.jpg"
@@ -208,7 +208,7 @@
   "120": {
     "id": 120,
     "title": "Progressive web apps - prepare your web for 2017",
-    "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google\u2019s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
+    "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google\u2019s product lead for chrome and the web platform) on stage at Google I/O 2017. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
     "speakers": [
       18
     ],
@@ -319,8 +319,8 @@
   },
   "112": {
     "id": 112,
-    "title": "Building web apps in 2016",
-    "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+    "title": "Building web apps in 2017",
+    "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2017. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
     "speakers": [
       10
     ],
